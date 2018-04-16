@@ -1,0 +1,39 @@
+.section-search input
+{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+
+.standard-img {
+    height: 150px !important;
+}
+
+.social-media .facebook:hover {
+    color: #3B5998;
+}
+
+.social-media .twitter:hover {
+    color: #00aced;;
+}
+
+.social-media .linkedin:hover {
+    color: #007bb6;
+}
+
+.social-media .googleplus:hover {
+    color: #dd4b39;
+}
+
+.social-media .pinterest:hover {
+    color: #cb2027;
+}
+
+.social-media a {
+    margin: 0 1em;
+}
